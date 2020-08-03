@@ -1,4 +1,4 @@
-# Lettering SVG-Texts / Tspans and numberic SVG-Attributes
+# Lettering Animation for SVG-Texts/tspans and numberic SVG-Attributes
 
 ## Description
 Demonstrate a lettering / typewriter animation with SVG text elements (and their tspan children).
@@ -26,6 +26,7 @@ when you want to build this for older browser (no async), you need to run it thr
 ## Credits
 
 thanks for bezier-easings from https://github.com/gre/bezier-easing
+
 rollup: https://github.com/rollup/rollup
 
 ## License
